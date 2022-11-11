@@ -10,5 +10,7 @@
         "10 * * * * https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_dreamFactory.js, tag=京喜工厂 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_dreamFactory.png",
         "20 0-23/3 * * * https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_jxmc.js, tag=惊喜牧场 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_jxmc.png",
         "20 13 * * 6 https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_get_share_code.js, tag=获取互助码 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_get_share_code.png",
+        "10 3 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js, tag=百度签到(网页), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png, enabled=true",
+        "35 8 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/xmlySign.js, tag=喜马拉雅签到任务, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/ximalaya.png, enabled=true",
            ]
 }
